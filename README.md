@@ -2,7 +2,7 @@
 This is a mod for Balatro which adds a deselect button to the game. Clicking it will automatically deselect any highlighted cards.
 
 ## Installation
-This mod is made for Steamodded v1.0.0 or higher, but probably works with older releases. Find [steamodded releases here](https://github.com/Steamopollys/Steamodded/wiki/01.-Getting-started). Once installed, you can extract the deselect-all.zip release into your steamodded `Balatro/Mods` folder. Find balatro-safety releases [here](https://github.com/Zei33/deselect-all-steamodded/releases/tag/release).
+This mod is made for Steamodded v1.0.0 or higher, but probably works with older releases. Find [steamodded releases here](https://github.com/Steamopollys/Steamodded/wiki/01.-Getting-started). Once installed, you can extract the deselect-all.zip release into your steamodded `Balatro/Mods` folder. Find deselect-all releases [here](https://github.com/Zei33/deselect-all-steamodded/releases/tag/release).
 
 ## Features
 - Deselect button during play.
